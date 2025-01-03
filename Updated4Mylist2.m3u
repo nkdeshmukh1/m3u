@@ -8,8 +8,8 @@ https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="ZEE5",& tv HD
 #https://ranapk.spidy.online/MACX/STREAM4K0/play.m3u8?id=3102
-https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-tvhd_0
-
+#https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-tvhd_0
+https://la.drmlive.au/tp/zee-tvhd_0.m3u8
 #EXTINF:-1 tvg-id=" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="HindiNEWS",India TV
@@ -78,7 +78,7 @@ https://la.drmlive.au/tp/zee-zeetv.m3u8
 https://allinonereborn.com/test.m3u8/?id=103
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png" group-title="ZEE5",Zee Anmol
 #https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-zeeanmol
-https://la.drmlive.au/tp/zee-zeeanmol
+https://la.drmlive.au/tp/zee-zeeanmol.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="ZEE5",Zee Bollywood
 #https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-zeeclassic
 https://la.drmlive.au/tp/zee-zeeclassic.m3u8
@@ -86,7 +86,7 @@ https://la.drmlive.au/tp/zee-zeeclassic.m3u8
 https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-176
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies" group-title="",Zee Action
 #https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-zeeaction
-https://la.drmlive.au/tp/zee-zeeaction
+https://la.drmlive.au/tp/zee-zeeaction.m3u8
 #EXTINF:-1 group-title="MOVIES CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Zee_Anmol_Cinema.png/revision/latest?cb=20210826143243",ZEE ANMOL CINEMA
 #https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-zeeanmolcinema
 https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
@@ -104,7 +104,8 @@ https://ranapk.spidy.online/MACX/REFUS/play.m3u8?id=3122
 #EXTINF:-1 ,Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253",AND PICTURES HD
-https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-tvpictureshd
+#https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-tvpictureshd
+https://la.drmlive.au/tp/zee-tvpictureshd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",BOLLYWOOD PRIME
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
 #EXTINF:-1 tvg-id="3171" tvg-logo="3171.jpeg" group-title="HINDI | CINEMA",UTSAV GOLD
@@ -186,7 +187,8 @@ https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-channel_2105335046
 #EXTINF:-1 tvg-id="1223" tvg-logo="http://xegd.ultapulta.com/stalker_portal/misc/logos/320/4893.jpg" group-title="hindi",& Tv HD
 https://ranapk.spidy.online/MACX/REFUS/play.m3u8?id=459
 #EXTINF:-1 group-title="MOVIES CHANNELS" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_list/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png",ZEE ANMOL CINEMA2
-https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-bigganga
+#https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-bigganga
+https://la.drmlive.au/tp/zee-bigganga.m3u8
 #EXTINF:-1 tvg-id="1223" tvg-logo="http://xegd.ultapulta.com/stalker_portal/misc/logos/320/4893.jpg" group-title="hindi",& Tv HD
 #EXTINF:-1 tvg-id="3176" tvg-logo="3176.jpeg" group-title="CINEMA", MN+
 https://allinonereborn.com/test.m3u8/?id=7134

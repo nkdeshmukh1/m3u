@@ -83,7 +83,8 @@ https://la.drmlive.au/tp/zee-zeeanmol.m3u8
 #https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-zeeclassic
 https://la.drmlive.au/tp/zee-zeeclassic.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Zee_Classic.jpg/revision/latest/scale-to-width-down/270?cb=20200907154854" tvg-name="" group-title="INDIAN | MOVIES",ZEE CLASSIC
-https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-176
+#https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-176
+https://la.drmlive.au/tp/zee-176.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies" group-title="",Zee Action
 #https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-zeeaction
 https://la.drmlive.au/tp/zee-zeeaction.m3u8

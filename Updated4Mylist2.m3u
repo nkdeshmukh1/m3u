@@ -18,8 +18,8 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD National
 http://localhost:5001/live/202.m3u8
-#EXTINF:-1 tvg-id="DDKisan.in" tvg-logo="https://i.imgur.com/x56WJEa.png" group-title="Education;Outdoor",DD Kisan (1080p)
-https://ythls.armelin.one/channel/UCnDfmcUyhgJp6xC1LmBLfUg.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-logo="https://i.imgur.com/x56WJEa.png" group-title="Education;Outdoor",DD Kisan
+http://localhost:5001/live/583.m3u8
 #EXTINF:-1 tvg-id="3326" tvg-logo="3326.png" group-title="HINDI | RELIGIOUS",AASTHA TV
 http://localhost:5001/live/175.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood HD
@@ -42,38 +42,31 @@ https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF:-1 tvg-id="ts460" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="TSneh SonyLIV",SONY BBC EARTH HD
 https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png", Animal Planet Multi Audio
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 tvg-id="566" tvg-name="Animal Planet Hindi" tvg-type="Infotainment" group-title="@allinone_reborn | Infotainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" catchup-days="7" catchup="auto" catchup-source="https://amit.allinonereborn.in/jiotv/app/catchup/ts_catchup_566_${catchup-id}_${start}_${stop}.m3u8",Animal Planet Hindi
-https://amit.allinonereborn.in/jiotv/app/ts_live_566.m3u8
+http://localhost:5001/live/566.m3u8
 #EXTINF:-1 tvg-id="575" tvg-name="Discovery Hindi" tvg-type="Infotainment" group-title="@allinone_reborn | Infotainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" catchup-days="7" catchup="auto" catchup-source="https://amit.allinonereborn.in/jiotv/app/catchup/ts_catchup_575_${catchup-id}_${start}_${stop}.m3u8",Discovery Hindi
-https://amit.allinonereborn.in/jiotv/app/ts_live_575.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="Information" group-title="",Discovery Science Multi Audio
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
-#EXTINF:-1 tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-type="Infotainment" group-title="@allinone_reborn | Infotainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" catchup-days="7" catchup="auto" catchup-source="https://amit.allinonereborn.in/jiotv/app/catchup/ts_catchup_578_${catchup-id}_${start}_${stop}.m3u8",History TV18 HD Hindi
-https://amit.allinonereborn.in/jiotv/app/ts_live_578.m3u8
+http://localhost:5001/live/575.m3u8
+#EXTINF:-1 tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-type="Infotainment" group-title="@allinone_reborn | Infotainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" catchup-days="7" catchup="auto" catchup-source="https://amit.allinonereborn.in/jiotv/app/catchup/ts_catchup_578_${catchup-id}_${start}_${stop}.m3u8",History TV18 HD
+http://localhost:5001/live/146.m3u8
 #EXTINF:-1 tvg-id="3158" tvg-logo="3158.jpeg" group-title="HINDI | TV",NATGEO WILD
 https://allinonereborn.com/test.m3u8/?id=486
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="Information" group-title="",TLC HD
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
+http://localhost:5001/live/479.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Information" group-title="",Wild Earth
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
+http://localhost:5001/live/2437.m3u8
 #EXTINF:-1 tvg-id="ts45" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="TSneh SonyLIV",SONY YAY
 https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#EXTINF:-1 tvg-id="ts658" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="TSneh SonyLIV",SONY MARATHI
-https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="TSneh SonyLIV", SONY KAL
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="ZEE5",& Pictures HD
 https://allinonereborn.com/test.m3u8/?id=139
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="ZEE5",ZEE Cinema HD
-https://allinonereborn.com/test.m3u8/?id=150
-#https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-zeecinemahd
+#https://fifabd.xyz/OPLLX/play.m3u8?id=206271|Referer=RANAPK
+https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-zeecinemahd
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="ZEE5",Zee tv HD
-#https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-zeetvhd
-https://allinonereborn.com/test.m3u8/?id=98
+https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-zeetvhd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi" group-title="",Star Plus HD
 https://allinonereborn.com/test.m3u8/?id=103
+#EXTINF:-1 tvg-id=279 tvg-name="Rishtey" tvg-logo="http://localhost:5001/jtvimage/Rishtey.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Rishtey
+http://localhost:5001/live/279.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png" group-title="ZEE5",Zee Anmol
 https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-zeeanmol
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="ZEE5",Zee Bollywood
@@ -87,13 +80,11 @@ https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-zeeanmolcinema
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe
 https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-zeecafehd
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" group-title="English Movies",Comedy Central HD
-#https://fifabangladesh.live/VHOD/go.php?id=Comedy_Central_HD_voot_MOB
-https://allinonereborn.com/test.m3u8/?id=20359
+https://fifabangladesh.live/VHOD/go.php?id=Comedy_Central_HD_voot_MOB
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies 
-#https://allinonereborn.com/test.m3u8/?id=143
-https://amit.allinonereborn.in/jiotv/app/ts_live_182.m3u8
+http://localhost:5001/live/182.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Kadak
-https://amit.allinonereborn.in/jiotv/app/ts_live_1295.m3u8
+http://localhost:5001/live/1295.m3u8
 #EXTINF:-1 tvg-id="3122" tvg-logo="3122.png" group-title="HINDI | TV",B4U PLUS
 https://ranapk.spidy.online/MACX/REFUS/play.m3u8?id=3122
 #EXTINF:-1 ,Shemaroo Bollywood
@@ -114,23 +105,24 @@ https://allinonereborn.com/test.m3u8/?id=22129
 https://allinonereborn.com/test.m3u8/?id=159
 
 #EXTINF:-1 tvg-id="815" tvg-name="Sonic Hindi" tvg-type="Kids" group-title="@allinone_reborn | Kids" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
-https://amit.allinonereborn.in/jiotv/app/ts_live_815.m3u8
-
+http://localhost:5001/live/815.m3u8
 #EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" tvg-type="Kids" group-title="@allinone_reborn | Kids" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
 https://amit.allinonereborn.in/jiotv/app/ts_live_816.m3u8
 #EXTINF:-1 tvg-id="1079" tvg-name="CN HD+ English" tvg-type="Kids" group-title="@allinone_reborn | Kids" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+ English
-https://amit.allinonereborn.in/jiotv/app/ts_live_1079.m3u8
+http://localhost:5001/live/1079.m3u8
 #EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-type="Kids" group-title="@allinone_reborn | Kids" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",Nick HD+
 https://amit.allinonereborn.in/jiotv/app/ts_live_1226.m3u8
-
+#EXTINF:-1 tvg-id=872 tvg-name="Sony Yay Hindi" tvg-logo="http://localhost:5001/jtvimage/Sony_Yay_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sony Yay Hindi
+http://localhost:5001/live/872.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="KIDS" group-title="",Pogo
-https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+http://localhost:5001/live/559.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick HD Plus
-#https://fifabangladesh.live/VHOD/go.php?id=Nick_HD_Plus_voot_MOB
-http://port.denver1769.in/ulpl2.php?tv=3399
+http://localhost:5001/live/1226.m3u8
+#EXTINF:-1 tvg-id=545 tvg-name="Nick Hindi" tvg-logo="http://localhost:5001/jtvimage/Nick_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Nick Hindi
+http://localhost:5001/live/545.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick JR
-https://fifabangladesh.live/VHOD/go.php?id=Nick_Junior_voot_MOB
+http://localhost:5001/live/548.m3u8
 #EXTINF:-1 tvg-id="475134" tvg-logo="71807.jpeg" group-title="HINDI | KIDS",DISNEY 
 http://port.denver1769.in/ulpl2.php?tv=4785
 #EXTINF:-1 group-title="Information",Food Food
@@ -157,32 +149,23 @@ https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 #EXTINF:-1  group-title="Hindi Movies" tvg-logo="", South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
-#EXTINF:-1 tvg-id="279" tvg-name="Rishtey" tvg-type="Entertainment" group-title="@allinone_reborn | Entertainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" catchup-days="7" catchup="auto" catchup-source="https://amit.allinonereborn.in/jiotv/app/catchup/ts_catchup_279_${catchup-id}_${start}_${stop}.m3u8",Rishtey
-https://amit.allinonereborn.in/jiotv/app/ts_live_279.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-type="Entertainment" group-title=JioTV Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-#https://fifabangladesh.live/VHOD/go.php?id=Colors_HD_voot_MOB
-https://amit.allinonereborn.in/jiotv/app/ts_live_144.m3u8
+http://localhost:5001/live/144.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex HD
-#https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_voot_MOB
-https://amit.allinonereborn.in/jiotv/app/ts_live_1477.m3u8
+http://localhost:5001/live/1477.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Bollywood
-#https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_Bollywood_voot_MOB
-https://amit.allinonereborn.in/jiotv/app/ts_live_1763.m3u8
+http://localhost:5001/live/1763.m3u8
 #EXTINF:-1 tvg-id="colorsrishtey.in" tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png" tvg-name="" group-title="INDIAN | ENTERTAINMENT",COLOR CINEPLEX SUPERHITS
-#https://fifabd.xyz/OPLLX/play.m3u8?id=66199|Referer=RANAPK
-https://amit.allinonereborn.in/jiotv/app/ts_live_1450.m3u8
+http://localhost:5001/live/1450.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="Information",Colors Infinity HD
-#https://fifabangladesh.live/VHOD/go.php?id=Colors_Infinity_HD_voot_MOB
-https://amit.allinonereborn.in/jiotv/app/ts_live_1158.m3u8
+http://localhost:5001/live/1158.m3u8
 #EXTINF:-1 tvg-id="2489" tvg-logo="http://rufus.zone/stalker_portal/misc/logos/320/1964.png" group-title="HINDI - NEW",STAR GOLD ROAMNCE
 https://ranapk.spidy.online/MACX/REFUS/play.m3u8?id=2489
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="English Movies",And Prive HD
 #http://port.denver1769.in/ulpl2.php?tv=5324
-#https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-9z5543514
-https://allinonereborn.com/test.m3u8/?id=7128
+https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-9z5543514
 #EXTINF:-1 tvg-id="611" tvg-logo="http://xegd.ultapulta.com/stalker_portal/misc/logos/320/3704.jpg" group-title="hindi",& Xplor HD
-#https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-209
-https://allinonereborn.com/test.m3u8/?id=14590
+https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-209
 #EXTINF:-1 tvg-id="755" tvg-logo="http://xegd.ultapulta.com/stalker_portal/misc/logos/320/5206.jpg" group-title="english",& Flix HD
 https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-channel_2105335046
 #EXTINF:-1 tvg-id="1223" tvg-logo="http://xegd.ultapulta.com/stalker_portal/misc/logos/320/4893.jpg" group-title="hindi",& Tv HD
@@ -191,17 +174,16 @@ https://ranapk.spidy.online/MACX/REFUS/play.m3u8?id=459
 https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-bigganga
 #EXTINF:-1 tvg-id="1223" tvg-logo="http://xegd.ultapulta.com/stalker_portal/misc/logos/320/4893.jpg" group-title="hindi",& Tv HD
 #EXTINF:-1 tvg-id="3176" tvg-logo="3176.jpeg" group-title="CINEMA", MN+
-https://allinonereborn.com/test.m3u8/?id=7134
+http://localhost:5001/live/477.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="English Movies",And Flix
 #https://fifabangladesh.live/VHOD/go.php?id=And_Flix_HD_MOB
-https://allinonereborn.com/test.m3u8/?id=7125
-#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-name="" group-title="INDIAN | 4K ULTRA HD",MOVIES NOW (4K)
-https://fifabd.xyz/OPLLX/play.m3u8?id=109968|Referer=RANAPK
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-name="" group-title="INDIAN | 4K ULTRA HD",STAR MOVIES (4K)
+https://fifabd.xyz/OPLLX/play.m3u8?id=109962|Referer=RANAPK
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-name="" group-title="INDIAN | 4K ULTRA HD",MOVIES NOW
+http://localhost:5001/live/151.m3u8
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-name="" group-title="INDIAN | 4K ULTRA HD",STAR MOVIES
 https://fifabd.xyz/OPLLX/play.m3u8?id=109970|Referer=RANAPK
 #EXTINF:-1 tvg-id="1081" tvg-logo="http://xegd.ultapulta.com/stalker_portal/misc/logos/320/5488.jpg" group-title="english",Star Movies HD
 http://port.denver1769.in/ulpl2.php?tv=5488
-
 
 

@@ -1,14 +1,13 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 #EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="http://localhost:5001/epg.xml.gz"
 #EXTINF:-1 tvg-id="ts15" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="TSneh SonyLIV",SONY HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF:-1 tvg-id="ts48" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="TSneh SonyLIV",SONY SAB HD
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="ZEE5",& tv HD
-#https://ranapk.spidy.online/MACX/STREAM4K0/play.m3u8?id=3102
-https://amit.allinonereborn.in/zee5/zee5.php?id=0-9-tvhd_0
+http://localhost:8080/zee5/playlist.php?c=0-9-tvhd_0
 
 #EXTINF:-1 tvg-id=" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
@@ -185,5 +184,3 @@ http://localhost:5001/live/151.m3u8
 https://fifabd.xyz/OPLLX/play.m3u8?id=109970|Referer=RANAPK
 #EXTINF:-1 tvg-id="1081" tvg-logo="http://xegd.ultapulta.com/stalker_portal/misc/logos/320/5488.jpg" group-title="english",Star Movies HD
 http://port.denver1769.in/ulpl2.php?tv=5488
-
-
